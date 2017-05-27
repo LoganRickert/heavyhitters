@@ -1,3 +1,4 @@
+
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
 <title>Heavy Hitters</title>
@@ -13,7 +14,7 @@
 <itunes:subtitle>Business, marketing, life and motivation.</itunes:subtitle>
 <itunes:explicit>no</itunes:explicit>
 <itunes:block>no</itunes:block>
-<itunes:image href="https://static.wixstatic.com/media/0e2909_cb93cf2d48d8410bb090cbc5e49f8c02~mv2.png/v1/crop/x_9,y_5,w_275,h_232/fill/w_315,h_268,al_c,lg_1/0e2909_cb93cf2d48d8410bb090cbc5e49f8c02~mv2.png"/>
+<itunes:image href="https://loganrickert.github.io/heavyhitters/matt-logo.png"/>
 <itunes:author>Matt Cline</itunes:author>
 <itunes:summary/>
 <itunes:category text="Business"/>
@@ -38,7 +39,7 @@ https://music.wixstatic.com/mp3/0e2909_90763f43e6064affa1cb44839e5f40bf.mp3
 <itunes:keywords/>
 <enclosure type="audio/mpeg" url="https://music.wixstatic.com/mp3/0e2909_90763f43e6064affa1cb44839e5f40bf.mp3" length="21786648"/>
 <itunes:duration>1211</itunes:duration>
-<itunes:image href="https://static.wixstatic.com/media/0e2909_cb93cf2d48d8410bb090cbc5e49f8c02~mv2.png/v1/crop/x_9,y_5,w_275,h_232/fill/w_315,h_268,al_c,lg_1/0e2909_cb93cf2d48d8410bb090cbc5e49f8c02~mv2.png"/>
+<itunes:image href="https://loganrickert.github.io/heavyhitters/matt-logo.png"/>
 <itunes:explicit>no</itunes:explicit>
 <itunes:order>1</itunes:order>
 <itunes:summary>This episode is about how I spent $5,000 on shoes and sold a majority of them within seven days. I also discuss the new SnapChat Spectacles.
