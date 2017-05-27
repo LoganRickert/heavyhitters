@@ -1,0 +1,51 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Heavy Hitters</title>
+<link>https://www.successincline.com/</link>
+<itunes:owner>
+<itunes:name>Matt Cline</itunes:name>
+<itunes:email></itunes:email>
+</itunes:owner>
+<description/>
+<language>en-us</language>
+<pubDate>Thu, 11 May 2017 23:14:47 GMT</pubDate>
+<itunes:keywords/>
+<itunes:subtitle>Business, marketing, life and motivation.</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<itunes:image href="https://static.wixstatic.com/media/0e2909_cb93cf2d48d8410bb090cbc5e49f8c02~mv2.png/v1/crop/x_9,y_5,w_275,h_232/fill/w_315,h_268,al_c,lg_1/0e2909_cb93cf2d48d8410bb090cbc5e49f8c02~mv2.png"/>
+<itunes:author>Matt Cline</itunes:author>
+<itunes:summary/>
+<itunes:category text="Business"/>
+<itunes:category text="Management &amp; Marketing"/>
+<atom:link rel="self" type="application/rss+xml" href="rss.xml"/>
+<item>
+<title>Heavy Hitters Podcast #1 - $5468.00 on Nike shoes - Hosted by Matt Cline</title>
+<description>
+<img src="https://i.ytimg.com/vi/3uXB490zDH0/maxresdefault.jpg" alt="itunes pic" /><br />This episode is about how I spent $5,000 on shoes and sold a majority of them within seven days. I also discuss the new SnapChat Spectacles.
+</description>
+<guid isPermaLink="true">
+https://music.wixstatic.com/mp3/0e2909_90763f43e6064affa1cb44839e5f40bf.mp3
+</guid>
+<comments>
+https://music.wixstatic.com/mp3/0e2909_90763f43e6064affa1cb44839e5f40bf.mp3
+</comments>
+<pubDate>Thu, 11 May 2017 23:14:47 GMT</pubDate>
+<dcterms:modified>2017-05-11</dcterms:modified>
+<dcterms:created>2017-05-11</dcterms:created>
+<link>https://www.successincline.com/</link>
+<dc:creator>Matt Cline</dc:creator>
+<itunes:keywords/>
+<enclosure type="audio/mpeg" url="https://music.wixstatic.com/mp3/0e2909_90763f43e6064affa1cb44839e5f40bf.mp3" length="21786648"/>
+<itunes:duration>1211</itunes:duration>
+<itunes:image href="https://static.wixstatic.com/media/0e2909_cb93cf2d48d8410bb090cbc5e49f8c02~mv2.png/v1/crop/x_9,y_5,w_275,h_232/fill/w_315,h_268,al_c,lg_1/0e2909_cb93cf2d48d8410bb090cbc5e49f8c02~mv2.png"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:order>1</itunes:order>
+<itunes:summary>This episode is about how I spent $5,000 on shoes and sold a majority of them within seven days. I also discuss the new SnapChat Spectacles.
+</itunes:summary>
+<itunes:subtitle>
+This episode is about how I spent $5,000 on shoes and sold a majority of them within seven days. I also discuss the new SnapChat Spectacles.
+</itunes:subtitle>
+</item>
+</channel>
+</rss>
